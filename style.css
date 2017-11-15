@@ -1,0 +1,26 @@
+body {}
+
+.head {
+    background-image: url('saha_yakutiya_flag.png');
+    height: 700px;
+    background-size: 100%;
+}
+
+.body {
+    background: #4187f7;
+    height: 300px;
+    width: 350px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 35px;
+}
+
+.infoblock {
+    background: #68f3ff;
+    height: 200px;
+    width: 200px;
+    margin-left: auto;
+}
