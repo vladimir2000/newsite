@@ -19,8 +19,9 @@ a {
 }
 
 .infoblock {
-    background: #68f3ff;
+    background: #006cff;
     height: 200px;
     width: 200px;
     margin-left: auto;
+    margin-bottom: 100px
 }
